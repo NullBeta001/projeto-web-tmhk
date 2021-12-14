@@ -10,3 +10,5 @@ pagamento
 realização de tests frequentes e entregas a cada finalização de branch
 sprints diarios para identificação de possíveis mudanças
 entrega final do projeto em 120 dias
+
+<linha de codigo adicionada para teste>
