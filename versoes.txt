@@ -1,0 +1,17 @@
+
+Facilidade de reversão
+
+Se você cometer um erro, está tudo bem!
+Os commits são imutáveis, o que significa que não podem ser alterados.
+( Nota: Você pode mudar o histórico, mas criará novos commits de substituição ao invés de editar os commits existentes. Mais sobre isso mais tarde! )
+Isso significa que se você cometer um erro, mesmo em um branch importante como o master, está tudo bem .
+Você pode facilmente reverter essa mudança, ou reverter o ponteiro do branch para o commit onde tudo estava bem.
+Os benefícios disso não podem ser exagerados.
+Isso não apenas cria um ambiente mais seguro para o projeto e o código, mas também promove um ambiente de desenvolvimento onde os desenvolvedores podem ser mais corajosos, confiando que o Git os protegerá.
+
+Conflitos de mesclagem
+
+O Git pode lidar com conflitos de mesclagem, o que significa que não há problema em várias pessoas trabalharem no mesmo arquivo ao mesmo tempo.
+Isso abre o mundo do desenvolvimento de uma forma que não é possível com o controle de versão centralizado.
+Você tem acesso a todo o projeto e, se estiver trabalhando em um branch, pode fazer o que for necessário e saber que suas alterações estão seguras.
+

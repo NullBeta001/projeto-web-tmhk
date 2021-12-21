@@ -1,0 +1,13 @@
+O que é Git?
+Git é um software de controle de versão distribuído.
+O controle de versão é uma forma de salvar as alterações ao longo do tempo sem substituir as versões anteriores.
+Sendo distribuído significa que cada desenvolvedor trabalhando com um repositório Git tem uma cópia de todo o repositório - cada commit, cada branch, cada arquivo.
+Se você está acostumado a trabalhar com sistemas de controle de versão centralizados, essa é uma grande diferença!
+
+Independentemente de você ter trabalhado ou não com controle de versão antes, existem algumas coisas que você deve saber antes de começar a usar o Git:
+
+Ramos são leves e baratos, então é normal ter muitos deles.
+Git armazena alterações em hashes SHA, que funcionam compactando arquivos de texto.
+Isso torna o Git um sistema de controle de versão (VCS) muito bom para programação de software, mas não tão bom para arquivos binários como imagens ou vídeos.
+Os repositórios Git podem ser conectados, para que você possa trabalhar em um localmente em sua própria máquina e conectá-lo a um repositório compartilhado.
+Dessa forma, você pode enviar e receber alterações para um repositório e facilmente colaborar com outras pessoas.
